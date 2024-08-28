@@ -1,0 +1,1 @@
+This repository contains the code generated for the study 'Biocompatibility, rather than the conductivity of the carrier material, may play a decisive role in enhancing methanogenic degradation of volatile fatty acids via direct interspecies electron transfer'
